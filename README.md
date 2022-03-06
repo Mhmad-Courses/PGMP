@@ -1,1 +1,1 @@
-# PGMP
+# PGMP Course Document
